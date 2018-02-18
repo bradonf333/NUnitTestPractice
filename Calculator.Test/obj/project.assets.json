@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "SimpleCalculator/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/SimpleCalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleCalculator.dll": {}
+        }
       }
     }
   },
@@ -169,11 +179,17 @@
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._"
       ]
+    },
+    "SimpleCalculator/1.0.0": {
+      "type": "project",
+      "path": "../SimpleCalculator/SimpleCalculator.csproj",
+      "msbuildProject": "../SimpleCalculator/SimpleCalculator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.1"
+      "NETStandard.Library >= 2.0.1",
+      "SimpleCalculator >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -211,7 +227,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\brado\\Documents\\Visual Studio 2017\\Projects\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj": {
+              "projectPath": "C:\\Users\\brado\\Documents\\Visual Studio 2017\\Projects\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -237,5 +257,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SimpleCalculator is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project SimpleCalculator supports: netcoreapp2.0 (.NETCoreApp,Version=v2.0)",
+      "libraryId": "SimpleCalculator",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
