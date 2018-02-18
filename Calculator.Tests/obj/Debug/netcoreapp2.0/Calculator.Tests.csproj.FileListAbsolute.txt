@@ -1,5 +1,0 @@
-C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator.Tests\bin\Debug\netcoreapp2.0\SimpleCalculator.dll
-C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator.Tests\obj\Debug\netcoreapp2.0\Calculator.Tests.csprojResolveAssemblyReference.cache
-C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator.Tests\obj\Debug\netcoreapp2.0\Calculator.Tests.csproj.CoreCompileInputs.cache
-C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator.Tests\obj\Debug\netcoreapp2.0\Calculator.Tests.AssemblyInfoInputs.cache
-C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator.Tests\obj\Debug\netcoreapp2.0\Calculator.Tests.AssemblyInfo.cs
