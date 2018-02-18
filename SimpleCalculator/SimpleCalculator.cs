@@ -2,7 +2,7 @@
 
 namespace SimpleCalculator
 {
-    public class Program
+    public class SimpleCalculator
     {
         public int Add(int a, int b)
         {
