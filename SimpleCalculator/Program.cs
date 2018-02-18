@@ -8,5 +8,11 @@ namespace SimpleCalculator
         {
             return a + b;
         }
+
+        public int Multiply(int a, int b)
+        {
+            // Creating a bug for testing demo purposes
+            return a + b;
+        }
     }
 }
