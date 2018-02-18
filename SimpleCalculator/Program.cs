@@ -2,11 +2,11 @@
 
 namespace SimpleCalculator
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public int Add(int a, int b)
         {
-            Console.WriteLine("Hello World!");
+            return a + b;
         }
     }
 }
