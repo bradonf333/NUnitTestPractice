@@ -1,0 +1,6 @@
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\PlayerCharacterApp\bin\Debug\PlayerCharacterApp.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\PlayerCharacterApp\bin\Debug\PlayerCharacterApp.pdb
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\PlayerCharacterApp\obj\Debug\PlayerCharacterApp.csprojResolveAssemblyReference.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\PlayerCharacterApp\obj\Debug\PlayerCharacterApp.csproj.CoreCompileInputs.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\PlayerCharacterApp\obj\Debug\PlayerCharacterApp.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\PlayerCharacterApp\obj\Debug\PlayerCharacterApp.pdb
