@@ -8,6 +8,7 @@ namespace Calculator
 {
     public class SimpleCalculator
     {
+        // Comments
         public int AddInts(int a, int b)
         {
             return a + b;
