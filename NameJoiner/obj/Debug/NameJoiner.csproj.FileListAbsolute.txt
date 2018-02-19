@@ -1,0 +1,6 @@
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\NameJoiner\bin\Debug\NameJoiner.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\NameJoiner\bin\Debug\NameJoiner.pdb
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\NameJoiner\obj\Debug\NameJoiner.csprojResolveAssemblyReference.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\NameJoiner\obj\Debug\NameJoiner.csproj.CoreCompileInputs.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\NameJoiner\obj\Debug\NameJoiner.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\NameJoiner\obj\Debug\NameJoiner.pdb
