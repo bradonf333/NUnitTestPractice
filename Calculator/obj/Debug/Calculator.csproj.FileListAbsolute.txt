@@ -3,3 +3,4 @@ C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator
 C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator\obj\Debug\Calculator.dll
 C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
