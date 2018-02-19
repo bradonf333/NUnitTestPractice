@@ -1,0 +1,9 @@
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SpecialDateStoreDemo\bin\Debug\netstandard2.0\SpecialDateStoreDemo.deps.json
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SpecialDateStoreDemo\bin\Debug\netstandard2.0\SpecialDateStoreDemo.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SpecialDateStoreDemo\bin\Debug\netstandard2.0\SpecialDateStoreDemo.pdb
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SpecialDateStoreDemo\obj\Debug\netstandard2.0\SpecialDateStoreDemo.csprojResolveAssemblyReference.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SpecialDateStoreDemo\obj\Debug\netstandard2.0\SpecialDateStoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SpecialDateStoreDemo\obj\Debug\netstandard2.0\SpecialDateStoreDemo.AssemblyInfoInputs.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SpecialDateStoreDemo\obj\Debug\netstandard2.0\SpecialDateStoreDemo.AssemblyInfo.cs
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SpecialDateStoreDemo\obj\Debug\netstandard2.0\SpecialDateStoreDemo.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SpecialDateStoreDemo\obj\Debug\netstandard2.0\SpecialDateStoreDemo.pdb
