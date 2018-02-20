@@ -26,5 +26,25 @@ namespace EnemyFactoryApp.Test
 
             Assert.That(enemy, Is.TypeOf<BossEnemy>());
         }
+
+        [Test]
+        public void ShouldBeOfBaseTypeEnemy()
+        {
+            var sut = new EnemyFactory();
+
+            object enemy = sut.Create(true);
+
+            Assert.That(enemy, Is.InstanceOf<Enemy>());
+        }
+
+        [Test]
+        public void ShouldHaveExtraPower()
+        {
+            var sut = new EnemyFactory();
+
+            object enemy = sut.Create(true);
+
+            Assert.That(enemy, Has.Property("ExtraPower"));
+        }
     }
 }

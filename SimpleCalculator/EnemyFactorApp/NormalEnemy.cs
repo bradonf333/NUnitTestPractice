@@ -1,6 +1,6 @@
 ﻿namespace EnemyFactorApp
 {
-    public class NormalEnemy
+    public class NormalEnemy : Enemy
     {
         public NormalEnemy()
         {
