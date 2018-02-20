@@ -15,13 +15,13 @@ namespace PlayerCharacterApp
         private void CreateStartingWeapons()
         {
             Weapons = new List<string>()
-                      {
-                          "Long Bow",
-                          "Short Bow",
-                          "Short Sword",                       
-                          // "Long Bow",
-                          // "Staff Of Wonder"
-                      };
+            {
+                "Long Bow",
+                "Short Bow",
+                "Short Sword",                     
+                // "Long Bow",
+                // "Staff Of Wonder"
+            };
         }
 
         private string GenerateName()

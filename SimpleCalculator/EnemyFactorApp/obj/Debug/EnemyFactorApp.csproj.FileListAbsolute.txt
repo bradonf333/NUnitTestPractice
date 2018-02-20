@@ -1,0 +1,6 @@
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\EnemyFactorApp\bin\Debug\EnemyFactorApp.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\EnemyFactorApp\bin\Debug\EnemyFactorApp.pdb
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\EnemyFactorApp\obj\Debug\EnemyFactorApp.csprojResolveAssemblyReference.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\EnemyFactorApp\obj\Debug\EnemyFactorApp.csproj.CoreCompileInputs.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\EnemyFactorApp\obj\Debug\EnemyFactorApp.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\EnemyFactorApp\obj\Debug\EnemyFactorApp.pdb
