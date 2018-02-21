@@ -6,12 +6,20 @@ namespace MemoryCalculatorApp.Tests
     [TestFixture]
     public class MemoryCalculatorAppTests
     {
-        MemoryCalculator sut = new MemoryCalculator();
+        MemoryCalculator sut;
 
         [SetUp]
         public void BeforeEachTest()
         {
+            Console.WriteLine("Before {0}", TestContext.CurrentContext.Test.Name);
             sut = new MemoryCalculator();
+        }
+
+        [TearDown]
+        public void AfterEachTest()
+        {
+            Console.WriteLine("After {0}", TestContext.CurrentContext.Test.Name);
+            sut = null;
         }
 
         [Test]
