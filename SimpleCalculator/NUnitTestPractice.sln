@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnemyFactorApp", "EnemyFact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryCalculatorApp", "MemoryCalculator\MemoryCalculatorApp.csproj", "{9DF0B89C-B703-43C2-B20A-0A983D8B2F8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryCalculatorApp.Tests", "MemoryCalculatorApp.Tests\MemoryCalculatorApp.Tests.csproj", "{B9F71510-7904-42F5-A072-B059DAE452D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9DF0B89C-B703-43C2-B20A-0A983D8B2F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DF0B89C-B703-43C2-B20A-0A983D8B2F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DF0B89C-B703-43C2-B20A-0A983D8B2F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F71510-7904-42F5-A072-B059DAE452D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F71510-7904-42F5-A072-B059DAE452D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F71510-7904-42F5-A072-B059DAE452D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F71510-7904-42F5-A072-B059DAE452D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
