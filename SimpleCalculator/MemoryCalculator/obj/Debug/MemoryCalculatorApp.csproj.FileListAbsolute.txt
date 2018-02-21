@@ -1,0 +1,5 @@
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\MemoryCalculator\bin\Debug\MemoryCalculator.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\MemoryCalculator\bin\Debug\MemoryCalculator.pdb
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\MemoryCalculator\obj\Debug\MemoryCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\MemoryCalculator\obj\Debug\MemoryCalculator.dll
+C:\Users\brado\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\MemoryCalculator\obj\Debug\MemoryCalculator.pdb

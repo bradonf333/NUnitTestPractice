@@ -8,6 +8,12 @@ namespace MemoryCalculatorApp.Tests
     {
         MemoryCalculator sut = new MemoryCalculator();
 
+        [SetUp]
+        public void BeforeEachTest()
+        {
+            sut = new MemoryCalculator();
+        }
+
         [Test]
         public void ShouldAdd()
         {
@@ -15,6 +21,14 @@ namespace MemoryCalculatorApp.Tests
             sut.Add(5);
 
             Assert.That(sut.CurrentValue, Is.EqualTo(15));
+        }
+
+        [Test]
+        public void ShouldSubtract()
+        {
+            sut.Subtract(5);
+
+            Assert.That(sut.CurrentValue, Is.EqualTo(-5));
         }
     }
 }
