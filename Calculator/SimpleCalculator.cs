@@ -23,5 +23,15 @@ namespace Calculator
         {
             return a * b;
         }
+
+        public int DivideInts(int a, int b)
+        {
+            if (a > 200)
+            {
+                throw new ArgumentOutOfRangeException("a");
+            }
+
+            return a / b;
+        }
     }
 }
